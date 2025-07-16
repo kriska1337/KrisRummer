@@ -1,3 +1,7 @@
 # KrisRummer
 
-#My virus xD
+**My virus xD**
+
+# Functions
+
+- fun xD
